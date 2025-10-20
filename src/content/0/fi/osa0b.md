@@ -40,6 +40,9 @@ Kun päivität sivun (eli painat F5-näppäintä tai selaimessa olevaa symbolia 
 
 ![](../../images/0/2e.png)
 
+(?? Minulla ei näy noin. Tiedostot Network-välilehdellä ovat "exampleapp/", "kuva.png" ja "activeContent.js", mutta tuossa kuvassa näkyy vain "fullstack-ex..." sekä "kuva.png".
+Myöhemminkin tällä sivulla on eroja ainakin siksi, että sivut ovat muuttuneet. Onko tämä sivu pahasti vanhentunut??.)
+
 Jos ruutusi on pieni, saatat joutua suurentamaan konsoli-ikkunaa, jotta saat selaimen tekemät haut näkyviin.
 
 Klikkaamalla näistä ensimmäistä paljastuu tarkempaa tietoa siitä, mistä on kyse:
@@ -220,7 +223,7 @@ data.forEach(function(note) {
 })
 ```
 
-Avaa nyt konsolin <i>Console</i>-välilehti:
+Avaa nyt [notes-sivulla](https://studies.cs.helsinki.fi/exampleapp/notes) konsolin <i>Console</i>-välilehti:
 
 ![](../../images/0/12e.png)
 
